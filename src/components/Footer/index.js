@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
   return (
-    <div>
+    <div className='container'>
       <footer>
         <div>
           <a href='mailto:funguy@fun.com'>
