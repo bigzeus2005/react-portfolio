@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
-import Header from '../components/Header/Header';
-import Navigation from '../components/Navigation/Navigation';
-import About from '../components/About/About';
-import Projects from '../components/Projects/Projects';
-import Contact from '../components/Contact/Contact';
-import Footer from '../components/Footer/Footer';
+import Header from './Header';
+import Navigation from './Navigation';
+import About from './About';
+import Projects from './Projects';
+import Contact from './Contact';
+import Footer from './Footer';
 
 export default function Portfolio() {
   const [currentPage, setCurrentPage] = useState('About');
