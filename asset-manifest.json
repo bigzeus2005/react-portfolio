@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%7Brepo-name%7D/static/css/main.53e34028.css",
+    "main.js": "/%7Brepo-name%7D/static/js/main.2874b844.js",
+    "static/media/project3.jpg": "/%7Brepo-name%7D/static/media/project3.8e14d2c16f4dc4e90bc4.jpg",
+    "static/media/project6.jpg": "/%7Brepo-name%7D/static/media/project6.42e524d82bca706bf5f7.jpg",
+    "static/media/banner.jpg": "/%7Brepo-name%7D/static/media/banner.a04ac9c299d677fcae41.jpg",
+    "static/media/project1.jpg": "/%7Brepo-name%7D/static/media/project1.7e96a32a8216cc9d5e74.jpg",
+    "static/media/project5.jpg": "/%7Brepo-name%7D/static/media/project5.de944fe983baa59ce78e.jpg",
+    "static/media/project4.jpg": "/%7Brepo-name%7D/static/media/project4.7eae49954b070790a8eb.jpg",
+    "static/media/project2.jpg": "/%7Brepo-name%7D/static/media/project2.80b7e764a859b040dd8b.jpg",
+    "index.html": "/%7Brepo-name%7D/index.html",
+    "main.53e34028.css.map": "/%7Brepo-name%7D/static/css/main.53e34028.css.map",
+    "main.2874b844.js.map": "/%7Brepo-name%7D/static/js/main.2874b844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53e34028.css",
+    "static/js/main.2874b844.js"
+  ]
+}
