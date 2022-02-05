@@ -23,9 +23,11 @@ export default function Portfolio() {
 
   return (
     <div>
-      <Header />
-      <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
-      {renderPage()}
+      <div className='min-vh-100'>
+        <Header />
+        <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
+        {renderPage()}
+      </div>
       <Footer />
     </div>
   )
